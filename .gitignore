@@ -1,0 +1,8 @@
+	# exclude everything except directories src and 
+    #*
+	#*/
+    #!/src
+    #!/resources   
+	
+.idea/
+.iml
